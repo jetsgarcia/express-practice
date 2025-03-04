@@ -1,0 +1,39 @@
+# Node Modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+
+# Build Files
+dist/
+build/
+
+# Editor Directories and Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Dependencies Lock
+package-lock.json
+yarn.lock
+
+# Temporary Files
+*.tmp
+*.cache
+coverage/
+
+# Nodemon
+.nodemon-debug.json
